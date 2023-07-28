@@ -49,5 +49,5 @@
 <h2 align="center">👨‍💻 Current Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/DJprogre33/booking_app" title="booking_app"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Djprogre33&repo=booking_app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/DJprogre33/booking_app" title="booking_app"><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Djprogre33&repo=booking_app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
