@@ -21,8 +21,6 @@
   <br>
   🤯 Currently looking for a job as a python junior backend developer
   <br>
-  ⚒️ Current projects: <a href="https://github.com/DJprogre33/booking_app" title="booking_app">Booking app API (FASTAPI + Async SQLALCHEMY)</a>
-  
 </p>
 
 <hr>
