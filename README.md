@@ -19,8 +19,6 @@
   <br>
   🧠 In the future I dream to start my own development studio
   <br>
-  🤯 Currently looking for a job as a python junior backend developer
-  <br>
 </p>
 
 <hr>
